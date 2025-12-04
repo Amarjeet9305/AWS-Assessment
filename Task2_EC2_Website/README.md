@@ -29,3 +29,24 @@ I used `data` sources in Terraform to dynamically reference the VPC and Subnet I
 3. Run `terraform init`
 4. Run `terraform apply`
 5. Access the website using the `website_url` output.
+
+
+Step 1 Launch Instance 
+
+![alt text](<Screenshot 2025-12-04 142151.png>)
+
+Step 2 Successfull Instance
+
+![alt text](<Screenshot 2025-12-04 142151-1.png>)
+
+Step 3 Create a Web Server and Security Group 
+
+![alt text](<Screenshot 2025-12-04 145959.png>)
+
+Step 4 Create a Web Server 
+
+![alt text](<Screenshot 2025-12-04 150516.png>)
+
+Step 5 Successfull instance install
+
+![alt text](<Screenshot 2025-12-04 154214.png>)
